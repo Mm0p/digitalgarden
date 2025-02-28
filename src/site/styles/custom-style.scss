@@ -16,6 +16,7 @@ body {
     //   color: black;
     //  }
     .filetree-sidebar {
-        border:solid 5px hsla(0, 95%, 35%, 1);
+        border-right:solid 5px hsla(0, 95%, 35%, 1);
+        border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
     }
 }
