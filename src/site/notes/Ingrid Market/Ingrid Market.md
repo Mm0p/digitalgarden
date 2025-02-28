@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ingrid-market/ingrid-market/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/ingrid-market/ingrid-market/","hide":"true","tags":["gardenEntry"]}
 ---
 
 # Welcome to my little ==(Blog)== Market!
