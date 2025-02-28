@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/ingrid-market/ingrid-market/","tags":["gardenEntry"]}
 ---
 
+# Welcome to my little ==(Blog)== Market!
 ![banner.png](/img/user/Ingrid%20Market/Images/banner.png)
 in this blog i am planning to write, not within a specific interval but just randomly really.. to update (and more journal) 
 - [ ] what i have been up to, 
