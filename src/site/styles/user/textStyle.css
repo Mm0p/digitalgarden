@@ -1,0 +1,36 @@
+/* Bold text color in both editor and preview mode */
+.markdown-preview-view strong,
+.cm-s-obsidian .cm-strong {
+    color: #FF7881 !important; /* Replace with your preferred color */
+}
+
+/* Italic text color in both editor and preview mode */
+.markdown-preview-view em,
+.cm-s-obsidian .cm-em {
+    color: #FBBB83 !important; /* Replace with your preferred color */
+}
+
+/* Bold and Italic together */
+.markdown-preview-view strong em,
+.markdown-preview-view em strong,
+.cm-s-obsidian .cm-strong.cm-em {
+    color: #CB9EFF !important; /* Replace with your preferred color */
+}
+
+
+
+/* Highlight EDITOR */
+.cm-s-obsidian span.cm-formatting-highlight, .cm-s-obsidian span.cm-highlight {
+    background: linear-gradient(
+        to bottom,
+        rgb(203, 158, 255, 0) 50%,
+        rgba(203, 158, 255, 0.5) 50%
+    );
+}
+.markdown-preview-view mark {
+    background: linear-gradient(
+        to bottom,
+        rgb(203, 158, 255, 0) 50%,
+        rgba(203, 158, 255, 0.5) 50%
+    );
+}
