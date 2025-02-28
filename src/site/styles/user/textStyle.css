@@ -1,3 +1,7 @@
+body {
+    text-align: center;
+}
+
 /* Bold text color in both editor and preview mode */
 .markdown-preview-view strong,
 .cm-s-obsidian .cm-strong {
