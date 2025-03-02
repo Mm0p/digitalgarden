@@ -19,4 +19,4 @@ In the blogs I have made a few categories:
 2. ==Handmade Crafts==: Sometimes I will want to make very specific blogs, this might be about food, watercolours, piano or any of my hobbies. These will be specific to the **ONE** thing I write about.
 3. ==Coffee Beans and Music==: This is more for when I go to different Cafe’s, Restaurants, or Concerts.
 ---
-Newest Note: [[Ingrid Market/Fresh Produce/Before going back to University!\|Before going back to University!]]
+==Newest== Note: [[Ingrid Market/Fresh Produce/Before going back to University!\|Before going back to University!]] (Fresh Produce)
