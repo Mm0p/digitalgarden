@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/ingrid-market/ingrid-market/","hide":"true","tags":["gardenEntry"]}
 ---
 
-# Welcome to my little ==(Blog)== Market!
+# Welcome to my little ***Farmer’s Market***!!
+(==Digital== Garden)
 
 in this blog i am planning to write, not within a specific interval but just randomly really.. to update (and more journal) 
 - [ ] what i have been up to, 
