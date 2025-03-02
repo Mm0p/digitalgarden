@@ -32,7 +32,7 @@
         
         <div x-show="showFilesMobile && !isDesktop" @click="showFilesMobile = false" style="display:none;" class="fullpage-overlay"></div>
 
-      <nav class="filetree-sidebar" x-show.important="isDesktop || showFilesMobile" style="display: none;">
+      <nav class="filetree-sidebar"  x-show.important="isDesktop || showFilesMobile" style="display: none;">
         {% for imp in dynamics.filetree.beforeTitle %}
             {% include imp %}
         {% endfor %}
@@ -54,12 +54,3 @@
          </div>
       </nav>
     </div>
-
-<script>
-	function sidebarON() {
-    console.log(“hovering in sidebar”);
-  }
-  function sidebarOFF() {
-    console.log(“hovering outside sidebar”);
-  }
-</script>
