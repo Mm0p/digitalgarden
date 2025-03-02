@@ -47,8 +47,17 @@ I brought my friend Noah because to me (even if I struggle to pay for it), it is
 I made a little plan with Noah about reading books, since the holidays started I have read quite a few books,
 - The Stranger
 - No Longer Human
-- 
+- Metamorphisis
+- The Sound of Waves
+- The Dream of the Red Chamber
+And now I am nearly done ‘The Settings Sun’. by Osamu Dazai.
+	I am in love with this book, although for some reason I do not keep picking it up, I would love to finish it but I just haven’t, and I have no reasoning or explanation.
+	
+---
 
+I have also been going out drinking a lot with Noah, and Rose. A few O-Week party’s which were good, but I really feel a struggle to make new ‘==close==’ friends. It seems like I am likeable as many people come talk to me; but for some reason I dont seem to be making as many friends as the people around me.
+
+This is hard to explain for me, and quite a struggle to write about, so I will keep it brief.
 
 
 [^1]:: Aqua: https://www.youtube.com/watch?v=iODv4ZOaieQ
