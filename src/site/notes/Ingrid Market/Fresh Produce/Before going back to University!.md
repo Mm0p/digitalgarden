@@ -2,12 +2,13 @@
 {"dg-publish":true,"permalink":"/ingrid-market/fresh-produce/before-going-back-to-university/"}
 ---
 
+#freshproduce
 # What have I been up to?
-This is my first [[Ingrid Market/Fresh Produce/Before going back to University!#About the Blog\|Blog]], so a lot of my spare time over the last 3 days have been dedicated to me creating this blog, as well as messing around with the settings and `css` of everything. I hope everybody like’s the little market theme I have designed.
+This is my first [[Ingrid Market/Fresh Produce/Before going back to University!#About the Blog\|Blog]], so a lot of my spare time over the last 3 days have been dedicated to me creating this blog, as well as messing around with the settings and `css` of everything. I hope everybody likes the little market theme I have designed.
 	(After watching ‘The French Dispatch’ with Bailey and Emeric, I was very tempted to change it into a newspaper theme but its okay!)
-This has been good for me, as it has given me something *productive* to focus on; otherwise I had felt quite bored over the holidays.
+This has been good for me, as it has given me something *productive* to focus on; I would have felt quite bored over the holidays.
 
-Although I do tend to feel quite useless, especially when not working or spending time away on holidays: Reflecting on my time and my life has genuinely been quite helpful to make me feel more human.
+Although I tend to feel quite useless, especially when not working or spending time away on holidays: Reflecting on my time and my life has genuinely been quite helpful to make me feel more human.
 
 Even though this was supposed to be a birthday gift back in 2023, and I didn’t get it until 2 days before I began University again; I have finally gotten myself a ==piano== for the apartment!!
 
@@ -17,12 +18,12 @@ Because of this, we instead placed it beside my bed which in the end, I think I 
 ![IMG_5194.jpg|400](/img/user/SchoolNotes/ImageBank/IMG_5194.jpg)
 It makes the view into my room (Accompanied by the lamps) very nice to look at, I am sure there is a word that fits the feeling I want to describe but I can’t seem to think of it at the moment.
 
-The poster’s I like, but to me makes it feel more like a ==dorm== than my home; which I *don’t* love.
+The poster’s I like, but to this makes it feel more like a ==dorm== room than my home; which I *don’t* love.
 
-I seem to have forgotten a big chunk of Ryuichi’s song - ‘Merry Christmas, Mr. Lawrence’, as well as gotten slightly worse at the ‘Mia and Sebastians Theme’.
+I seem to have forgotten a big portion of Ryuichi’s song - ‘Merry Christmas, Mr. Lawrence’, as well as gotten slightly worse at the ‘Mia and Sebastians Theme’.
 	This is okay to me, I have started learning Patrick Watson’s rendition of Perfect Days by Lou Reed, this song makes me feel a certain way!
 #### About the ==Blog==
-The Blog seems to me like a way to Journal, this is because I kind of find it hard to keep motivation!! I think that is okay and I will push past it.
+The Blog seems to me like a way to Journal, this is because I kind of find it hard to keep motivated!! I think that is okay and I will push past it.
 
 I **HAVE** been focusing too much on the look of the website though! I spent maybe 2 hours getting the ==highlights== looking the way they do, and although I absolutely LOVE it, I am unsure whether it was worth staying up till 5AM to do!
 	Next I would like to perfect the Sidebar, maybe JUST turn it into a Nav up the top of the page, although i’m unsure the **best** way to do this!
