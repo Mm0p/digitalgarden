@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/ingrid-market/fresh-produce/before-going-back-to-university/"}
 ---
 
-![banner.png](/img/user/Ingrid%20Market/Images/banner.png)
 # What have I been up to?
 This is my first [[Ingrid Market/Fresh Produce/Before going back to University!#About the Blog\|Blog]], so a lot of my spare time over the last 3 days have been dedicated to me creating this blog, as well as messing around with the settings and `css` of everything. I hope everybody like’s the little market theme I have designed.
 	(After watching ‘The French Dispatch’ with Bailey and Emeric, I was very tempted to change it into a newspaper theme but its okay!)
@@ -43,6 +42,12 @@ I brought my friend Noah because to me (even if I struggle to pay for it), it is
 - through higher paying jobs
 - or by helping you get through tougher situations (strategically).
 	TRUE happiness must stem from art and culture, these are the things that directly influence feeling. Music, Movies, Dance, Paintings. Imagine yourself in an empty room; there is no option but to deteriorate emotion. I could be surrounded by misfortune; but as long as I have a welcoming environment, I am happy. It is horrible that within society we are punished and deprived of genuine happiness from a lack of financial ability.
+
+#### Books
+I made a little plan with Noah about reading books, since the holidays started I have read quite a few books,
+- The Stranger
+- No Longer Human
+- 
 
 
 
