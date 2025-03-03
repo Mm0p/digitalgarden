@@ -21,3 +21,12 @@ In the blogs I have made a few categories:
 3. ==Coffee Beans and Music==: This is more for when I go to different Cafe’s, Restaurants, or Concerts.
 ---
 ==Newest== Note: [[Ingrid Market/Fresh Produce/Before going back to University!\|Before going back to University!]] (Fresh Produce)
+
+# Recent Books
+```datacards
+TABLE author, rating, cover FROM #books
+SORT rating DESC
+// Settings
+preset: dense
+imageProperty: cover
+```
