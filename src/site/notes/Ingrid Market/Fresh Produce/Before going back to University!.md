@@ -3,6 +3,7 @@
 ---
 
 #freshproduce
+2nd March 2025
 # What have I been up to?
 This is my first [[Ingrid Market/Fresh Produce/Before going back to University!#About the Blog\|Blog]], so a lot of my spare time over the last 3 days have been dedicated to me creating this blog, as well as messing around with the settings and `css` of everything. I hope everybody likes the little market theme I have designed.
 	(After watching ‘The French Dispatch’ with Bailey and Emeric, I was very tempted to change it into a newspaper theme but its okay!)
