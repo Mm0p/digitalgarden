@@ -1,0 +1,6 @@
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="bicycle"]::before,
+body.filetree-note-icon .filename[data-note-icon="bicycle"]::before,
+body.links-note-icon .internal-link[data-note-icon="bicycle"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="bicycle"]::before {
+  background-image: url(https://raw.githubusercontent.com/fxaeberhard/handdrawn.css/e77fe8624d412e56cf7a9bc64791984f15f1f83e/assets/icons/bicycle.svg);
+}
