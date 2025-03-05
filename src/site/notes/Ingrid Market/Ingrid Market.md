@@ -22,4 +22,9 @@ In the blogs I have made a few categories:
 ---
 ==Newest== Note: [[Ingrid Market/Fresh Produce/Before going back to University!\|Before going back to University!]] (Fresh Produce)
 
-<p><span data-heading="Recent Books" data-tag-name="h3" class="el-h3"><h3 data-heading="Recent Books" dir="auto">Recent Books</h3></span></p><p><span data-tag-name="pre" class="el-pre"><div class="block-language-datacards"></div></span></p>
+| File                                          | author      | rating | embed(link(cover, "300"))                                                           |
+| --------------------------------------------- | ----------- | ------ | ----------------------------------------------------------------------------------- |
+| [[Books/Metamorphisis\|Metamorphisis]]     | Franz Kafka | 9/10   | ![[https://cdn2.penguin.com.au/covers/original/9780241573730.jpg\|300]]             |
+| [[Books/The Setting Sun\|The Setting Sun]] | Osamu Dazai | 10/10  | ![[https://m.media-amazon.com/images/I/41EPS8q999L._AC_UF1000,1000_QL80_.jpg\|300]] |
+
+{ .block-language-dataview}
