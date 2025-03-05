@@ -42,19 +42,19 @@ table.dataview tbody tr td {
 }
 
 table.dataview tbody tr td:nth-child(1)::before {
-  content: "Author: ";
+  content: "Title: ";
   font-weight: bold;
   color: var(--text-accent);
 }
 
 table.dataview tbody tr td:nth-child(2)::before {
-  content: "Rating: ";
+  content: "Author: ";
   font-weight: bold;
   color: var(--text-accent);
 }
 
 table.dataview tbody tr td:nth-child(3)::before {
-  content: "Cover: ";
+  content: "Rating: ";
   font-weight: bold;
   color: var(--text-accent);
 }
