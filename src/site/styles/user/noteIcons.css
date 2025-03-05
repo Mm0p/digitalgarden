@@ -2,7 +2,7 @@ body {
   --note-icon-1: url(https://raw.githubusercontent.com/fxaeberhard/handdrawn.css/e77fe8624d412e56cf7a9bc64791984f15f1f83e/assets/icons/bookmark-o.svg);
   --note-icon-2: url(/img/tree-2.svg);
   --note-icon-3: url(https://raw.githubusercontent.com/fxaeberhard/handdrawn.css/e77fe8624d412e56cf7a9bc64791984f15f1f83e/assets/icons/beer.svg);
-  --note-icon-fallback: url(/img/default-note-icon.svg);}
+  --note-icon-fallback: url(/img/default-note-icon.svg);
 }
 
 body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="bicycle"]::before,
