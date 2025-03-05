@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ingrid-market/fresh-produce/before-going-back-to-university/"}
+{"dg-publish":true,"permalink":"/ingrid-market/fresh-produce/before-going-back-to-university/","noteIcon":"1"}
 ---
 
 #freshproduce
