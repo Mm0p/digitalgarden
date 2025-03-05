@@ -20,7 +20,7 @@ table.dataview tbody {
 table.dataview tbody tr {
   background-color: var(--background-secondary);
   border:solid 2px black;
-  border-radius: 255px 15px 225px 15px/15px 225px 15px 255px
+  border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
   padding: 16px;
   width: calc(33.333% - 16px); /* Adjust width as needed */
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
