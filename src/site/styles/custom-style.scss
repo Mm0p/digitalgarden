@@ -38,4 +38,8 @@ body {
         border:solid 2px black;
         border-radius: 200px 25px 200px 25px / 25px 200px 25px 200px;
     }
+    hr {
+        border-top: 2px solid --hr-color;
+        border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+    }
 }
