@@ -1,5 +1,5 @@
 /* Style the table as a flex container for cards */
-.bookshelf table.dataview {
+table.dataview {
   display: flex;
   flex-wrap: wrap;
   gap: 16px;
@@ -10,14 +10,14 @@
 }
 
 /* Style each row as a card */
-.bookshelf table.dataview tbody {
+table.dataview tbody {
   display: flex;
   flex-wrap: wrap;
   gap: 16px;
   width: 100%; /* Ensure the tbody takes full width */
 }
 
-.bookshelf table.dataview tbody tr {
+table.dataview tbody tr {
   background-color: var(--background-secondary);
   border: 1px solid var(--background-modifier-border);
   border-radius: 8px;
@@ -29,41 +29,41 @@
   margin: 0; /* Remove any default margins */
 }
 
-.bookshelf table.dataview tbody tr:hover {
+table.dataview tbody tr:hover {
   transform: translateY(-4px);
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 /* Style the content inside the card */
-.bookshelf table.dataview tbody tr td {
+table.dataview tbody tr td {
   display: block;
   margin: 0;
   padding: 0;
 }
 
-.bookshelf table.dataview tbody tr td:nth-child(1)::before {
+table.dataview tbody tr td:nth-child(1)::before {
   content: "Author: ";
   font-weight: bold;
   color: var(--text-accent);
 }
 
-.bookshelf table.dataview tbody tr td:nth-child(2)::before {
+table.dataview tbody tr td:nth-child(2)::before {
   content: "Rating: ";
   font-weight: bold;
   color: var(--text-accent);
 }
 
-.bookshelf table.dataview tbody tr td:nth-child(3)::before {
+table.dataview tbody tr td:nth-child(3)::before {
   content: "Cover: ";
   font-weight: bold;
   color: var(--text-accent);
 }
 
-.bookshelf table.dataview tbody tr td img {
+table.dataview tbody tr td img {
   max-width: 100%;
   border-radius: 4px;
   margin-top: 8px;
 }
-.bookshelf table.dataview thead { 
+table.dataview thead { 
   display: none; 
 }
