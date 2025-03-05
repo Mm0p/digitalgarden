@@ -22,10 +22,4 @@ In the blogs I have made a few categories:
 ---
 ==Newest== Note: [[Ingrid Market/Fresh Produce/Before going back to University!\|Before going back to University!]] (Fresh Produce)
 
-```datacards
-TABLE author, rating, cover FROM #books
-SORT rating DESC
-// Settings
-preset: dense
-imageProperty: cover
-```
+<p><span data-heading="Recent Books" data-tag-name="h3" class="el-h3"><h3 data-heading="Recent Books" dir="auto">Recent Books</h3></span></p><p><span data-tag-name="pre" class="el-pre"><div class="block-language-datacards"></div></span></p>
