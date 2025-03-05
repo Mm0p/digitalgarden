@@ -29,4 +29,3 @@ SORT rating DESC
 preset: dense
 imageProperty: cover
 ```
-.
