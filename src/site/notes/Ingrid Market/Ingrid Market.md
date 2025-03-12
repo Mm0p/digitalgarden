@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ingrid-market/ingrid-market/","hide":"true","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/ingrid-market/ingrid-market/","hide":"true","tags":["gardenEntry"],"noteIcon":"1"}
 ---
 
 # Welcome to my little ***Farmer’s Market***!!
@@ -22,10 +22,8 @@ In the blogs I have made a few categories:
 ---
 ==Newest== Note: [[Ingrid Market/Fresh Produce/Before going back to University!\|Before going back to University!]] (Fresh Produce)
 
-| File                                          | author       | rating | cover                                                                          |
-| --------------------------------------------- | ------------ | ------ | ------------------------------------------------------------------------------ |
-| [[Books/Metamorphisis\|Metamorphisis]]     | Franz Kafka  | 9/10   | ![](https://cdn2.penguin.com.au/covers/original/9780241573730.jpg)             |
-| [[Books/The Setting Sun\|The Setting Sun]] | Osamu Dazai  | 10/10  | ![](https://m.media-amazon.com/images/I/41EPS8q999L._AC_UF1000,1000_QL80_.jpg) |
-| [[Books/The Stranger\|The Stranger]]       | Albert Camus | 10/10  | ![](https://m.media-amazon.com/images/I/617WkdpG8xL.jpg)                       |
+| File                                          | author      | rating | cover                                                                          |
+| --------------------------------------------- | ----------- | ------ | ------------------------------------------------------------------------------ |
+| [[Books/The Setting Sun\|The Setting Sun]] | Osamu Dazai | 10/10  | ![](https://m.media-amazon.com/images/I/41EPS8q999L._AC_UF1000,1000_QL80_.jpg) |
 
 { .block-language-dataview}
