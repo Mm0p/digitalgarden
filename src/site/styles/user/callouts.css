@@ -51,5 +51,5 @@ blockquote {
   border-left: solid 1px var(--accent-color);
 }
 .markdown-rendered blockquote {
-  border-left: solid 1px var(--accent-color);
+  border-left: solid 1px var(--text-accent);
 }
