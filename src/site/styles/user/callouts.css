@@ -48,6 +48,7 @@ blockquote {
   margin-left: 0px;
 
   box-shadow: 8px 8px 0 0 var(--main-color); /*shadow border thing */
+  border-left: solid 1px var(--accent-color);
 }
 
 div:not(.CodeMirror-activeline)>.HyperMD-quote {
