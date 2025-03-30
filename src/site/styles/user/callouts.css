@@ -1,4 +1,5 @@
 .callout {
+  --blockquote-border-color: var(--accent-color);
   --main-color: #262626;
   --callout-title-color: black;
   --callout-title-margin: 0;
@@ -41,7 +42,7 @@ blockquote {
   --callout-content-padding: 0px;
   margin: 13px 13px;
   border-radius: var(--radius-s);
-  border: 1.2px solid var(--text-accent);
+  border: 1.2px solid var(--main-color);
   padding: 10px;
   background-color: transparent; /*floating card callouts */
   margin-left: 0px;
@@ -64,3 +65,4 @@ div:not(.CodeMirror-activeline)>.HyperMD-quote {
 
   box-shadow: 8px 8px 0 0 var(--main-color); /*shadow border thing */
 }
+
