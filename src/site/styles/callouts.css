@@ -1,0 +1,65 @@
+.callout,
+.markdown-source-view.mod-cm6 .callout {
+  --main-color: #262626;
+  --callout-title-color: black;
+  --callout-title-margin: 0;
+  --callout-title-size: 12px;
+  --callout-content-padding: 0px;
+  margin: 13px 13px;
+  border-radius: var(--radius-s);
+  border: 1.2px solid var(--main-color);
+  padding: 10px;
+  background-color: transparent; /*floating card callouts */
+  margin-left: 0px;
+
+  box-shadow: 8px 8px 0 0 var(--main-color); /*shadow border thing */
+  
+}
+
+
+.callout-icon {
+  display: none;
+}
+
+.HyperMD-quote {
+  --blockquote-border-color: black;
+}
+
+
+
+
+.cm-quote {
+  color: var(--text-normal) !important;
+}
+
+.markdown-preview-view blockquote {
+  --main-color: #262626;
+  --callout-title-color: black;
+  --callout-title-margin: 0;
+  --callout-title-size: 12px;
+  --callout-content-padding: 0px;
+  margin: 13px 13px;
+  border-radius: var(--radius-s);
+  border: 1.2px solid var(--main-color);
+  padding: 10px;
+  background-color: transparent; /*floating card callouts */
+  margin-left: 0px;
+
+  box-shadow: 8px 8px 0 0 var(--main-color); /*shadow border thing */
+}
+
+div:not(.CodeMirror-activeline)>.HyperMD-quote {
+  --main-color: #262626;
+  --callout-title-color: black;
+  --callout-title-margin: 0;
+  --callout-title-size: 12px;
+  --callout-content-padding: 0px;
+  margin: 13px 13px;
+  border-radius: var(--radius-s);
+  border: 1.2px solid var(--main-color);
+  padding: 10px;
+  background-color: transparent; /*floating card callouts */
+  margin-left: 0px;
+
+  box-shadow: 8px 8px 0 0 var(--main-color); /*shadow border thing */
+}
