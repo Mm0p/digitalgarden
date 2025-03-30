@@ -1,5 +1,4 @@
-.callout,
-.markdown-source-view.mod-cm6 .callout {
+.callout {
   --main-color: #262626;
   --callout-title-color: black;
   --callout-title-margin: 0;
@@ -32,7 +31,7 @@
   color: var(--text-normal) !important;
 }
 
-.markdown-preview-view blockquote {
+blockquote {
   --main-color: #262626;
   --callout-title-color: black;
   --callout-title-margin: 0;
